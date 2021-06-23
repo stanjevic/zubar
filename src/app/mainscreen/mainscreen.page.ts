@@ -15,6 +15,8 @@ export class MainscreenPage implements OnInit {
 
   loginPage(){
     this.route.navigate(['login'])
+
   }
 
+  
 }
